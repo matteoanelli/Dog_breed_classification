@@ -1,3 +1,9 @@
 .ipynb_checkpoints
 images
 haarcascades
+saved_models/model_transfer.pt
+saved_models/model_scratch.pt
+saved_models/model_scratch.pt
+saved_models/model_scratch.pt
+saved_models/model_scratch.pt
+saved_models/model_scratch.pt
